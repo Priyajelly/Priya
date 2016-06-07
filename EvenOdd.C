@@ -8,5 +8,5 @@ int main(void)
       printf("%d is a odd number",number);
     else
       printf("%d is a even number",number);
-	  return 0;
+    return 0;
 }
